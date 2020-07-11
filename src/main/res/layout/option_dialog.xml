@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="500dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#AED581"
+        android:gravity="center"
+        android:text="유형 선택"
+        android:textColor="#fff"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/user_set_title"
+        android:layout_width="300dp"
+        android:hint="제목을 입력해주세요."
+        android:layout_height="wrap_content" />
+
+<!--    <EditText-->
+<!--        android:id="@+id/user_set_division"-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="부제" />-->
+
+
+    <EditText
+
+        android:id="@+id/user_set_subTitle"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="부제목을 입력해주세요."
+        />
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/cancel_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="#1A534BAE"
+            android:lineSpacingExtra="6.8sp"
+            android:text="취소"
+            android:textColor="#1d1c1c"
+            android:textSize="13.8sp" />
+
+        <Button
+            android:id="@+id/add_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="#1A534BAE"
+            android:lineSpacingExtra="6.8sp"
+            android:text="추가하기"
+            android:textColor="#1d1c1c"
+            android:textSize="13.8sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

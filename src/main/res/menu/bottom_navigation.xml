@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:orderInCategory="1"
+        android:id="@+id/bottom_formation"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="포메이션" />
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/bottom_positionInfo"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="포지션 정보" />
+
+</menu>

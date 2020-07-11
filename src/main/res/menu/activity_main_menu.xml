@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/lock"-->
+<!--        android:icon="@drawable/ic_launcher_foreground"-->
+<!--        android:orderInCategory="1"-->
+<!--        android:title="보기 전용"-->
+<!--        app:showAsAction="always" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/capture"-->
+<!--        android:icon="@drawable/ic_launcher_foreground"-->
+<!--        android:orderInCategory="2"-->
+<!--        android:title="이미지 캡쳐"-->
+<!--        app:showAsAction="always" />-->
+
+</menu>
