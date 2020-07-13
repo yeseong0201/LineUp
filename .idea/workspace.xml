@@ -11,7 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60db785f-7e6a-4513-98ce-c6504b997174" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lineup/Activity/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/line_up_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/lineup_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/splash_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lineup/controllers/SwipeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lineup/controllers/SwipeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +59,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ce081718608f403a03" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-13T14:30:33.245Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/res/drawable-v24" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res/drawable-v24" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1594365766905" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1594649779320" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
+    <key name="android.template.-923112961">
+      <recent name="com.example.lineup" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/res/drawable-v24" />
     </key>
@@ -144,34 +158,37 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="212" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1594374067568" />
-    <state width="1398" height="171" key="GridCell.Tab.0.bottom" timestamp="1594482605241">
+    <state width="1398" height="171" key="GridCell.Tab.0.bottom" timestamp="1594483721283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="171" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594482605241" />
+    <state width="1398" height="171" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594483721283" />
     <state width="1398" height="171" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1594392909098" />
-    <state width="1398" height="171" key="GridCell.Tab.0.center" timestamp="1594482605240">
+    <state width="1398" height="171" key="GridCell.Tab.0.center" timestamp="1594483721282">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="171" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594482605240" />
+    <state width="1398" height="171" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594483721282" />
     <state width="1398" height="171" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1594392909097" />
-    <state width="1398" height="171" key="GridCell.Tab.0.left" timestamp="1594482605239">
+    <state width="1398" height="171" key="GridCell.Tab.0.left" timestamp="1594483721281">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="171" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594482605239" />
+    <state width="1398" height="171" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594483721281" />
     <state width="1398" height="171" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1594392909097" />
-    <state width="1398" height="171" key="GridCell.Tab.0.right" timestamp="1594482605241">
+    <state width="1398" height="171" key="GridCell.Tab.0.right" timestamp="1594483721283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="171" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594482605241" />
+    <state width="1398" height="171" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594483721283" />
     <state width="1398" height="171" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1594392909098" />
-    <state x="497" y="235" key="chooseDestDirectoryDialog" timestamp="1594474809530">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="497" y="238" key="chooseDestDirectoryDialog" timestamp="1594650909956">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="497" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1594474809530" />
-    <state x="390" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1594365766695">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="497" y="238" key="chooseDestDirectoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1594650377318" />
+    <state x="497" y="238" key="chooseDestDirectoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1594650909956" />
+    <state x="390" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1594649776435">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="390" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1594365766695" />
+    <state x="390" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1594649776435" />
     <state x="482" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1594370803577">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
